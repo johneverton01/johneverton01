@@ -38,7 +38,7 @@
 ## 📈 My Github Stats
 
 ![JohnEverton01's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johneverton01&layout=compact&langs_count=7&theme=dark)
-<!-- ![JohnEverton01's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=be52e085-13b8-4cf4-bfa7-ac426ef9c9a3&theme=dark&layout=compact) -->
+![JohnEverton01's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=be52e085-13b8-4cf4-bfa7-ac426ef9c9a3&theme=dark&layout=compact&v2)
 ![JohnEverton01's github stats](https://github-readme-stats.vercel.app/api?username=johneverton01&show_icons=true&theme=dark&include_all_commits=true&count_private=true) 
 
 ---
