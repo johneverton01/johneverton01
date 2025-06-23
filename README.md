@@ -6,7 +6,7 @@
 
 ## 👨🏾‍💻 Who am I
 
-- 🔭 I'm currently working as frontend of Vuejs / React Native at [Teknisa](https://www.teknisa.com)
+- 🔭 I'm currently working as frontend of Vuejs / React Native at [Alloyal](https://alloyal.com.br)
 - 😄 Pronouns: Him/His
 - 📌 I live in Belo Horizonte - BR
 ---
